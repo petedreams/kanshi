@@ -4,6 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Amazon
+    url: https://www.amazon.co.jp
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
