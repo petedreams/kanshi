@@ -4,14 +4,14 @@ repo: kanshi # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Docomo
-    url: https://www.nttdocomo.co.jp/
-  - name: Amazon
-    url: https://www.amazon.co.jp
-  - name: Google
-    url: https://www.google.com
-  - name: Shippai Site
-    url: https://thissitedoesnotexist.com
+#  - name: Docomo
+#    url: https://www.nttdocomo.co.jp/
+#  - name: Amazon
+#    url: https://www.amazon.co.jp
+#  - name: Google
+#    url: https://www.google.com
+#  - name: Shippai Site
+#    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
